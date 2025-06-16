@@ -1,5 +1,4 @@
 # LSMON
-# NCAE_UAD
 Official project repository of 'Latent Space Metric Optimization for Unsupervised Anomaly Detection on Contaminated Data'
 
 ## Dependencies
