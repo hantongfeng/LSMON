@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python main.py thyroid thyroid_mlp ../log/thyroid_test ../data --ratio_pollution 0.1 --lr 0.001 --gan_lr 0.001 --n_epochs 150 --batch_size 128 --weight_decay 0.5e-6 --seed 2 --spl 0.1 --spm 0.99 --std 0.1 --idt 0.1 
